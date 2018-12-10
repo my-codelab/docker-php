@@ -16,5 +16,7 @@ at base directory execute command
 `docker-compose up` to run and build image
 
 after that browse your favorite browser
-got to url `http://{docker-machine-ip}`
+go to url `http://{docker-machine-ip}`
 and output is `Hello World (php)` 
+
+`docker-compose down` to shutdown docker container
