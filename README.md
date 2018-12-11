@@ -1,4 +1,6 @@
 # docker-php-nginx
+[![Build Status](https://travis-ci.com/mchoiruln/docker-php-nginx.svg?branch=master)](https://travis-ci.com/mchoiruln/docker-php-nginx)
+
 Sample of docker-compose with nginx and php-fpm (alpine), which say 'Hello World'
 
 ## Prerequisite
